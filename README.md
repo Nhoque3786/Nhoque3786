@@ -6,7 +6,7 @@
 
 # Hello, I'm Nhoque!
 I'm a almost-software engineer from brazil. I love making stuff with no skills whatsoever :D
-Currently i'm 
+Currently i'm a self-learning student :)
 ## About Me
 I'm a 20 year old guy that like mixing creativity with technology, so i love playing with gamedev and pixel art, even music sometimes! Also i love demoscenes. Also, I have ASD and ADHD, but honestly this makes me even more joyful at my life and things i create.
 
