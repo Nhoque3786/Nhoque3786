@@ -40,9 +40,6 @@ I'm a 20 year old guy that like mixing creativity with technology, so i love pla
 - Nvidia GTX 750
 #### For CPU...
 - Intel Core i7 860 (8) 2.79 GHz
-#### For OS...
-- Linux Fedora Workstation 44
-
 ### Software
 #### For coding...
 - Jetbrains's IDEs! 
